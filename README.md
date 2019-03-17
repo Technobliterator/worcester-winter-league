@@ -1,4 +1,4 @@
-# worcester-league
+# worcester-winter-league
 
 > Worcester Winter League website
 
