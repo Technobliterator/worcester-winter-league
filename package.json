@@ -1,5 +1,5 @@
 {
-  "name": "worcester-league",
+  "name": "worcester-winter-league",
   "description": "Worcester Winter League website",
   "version": "1.0.0",
   "author": "Joe Miller",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "bulma": "^0.7.4",
-    "vue": "^2.5.11",
+    "vue": "^2.6.9",
     "vue-bulma-tabs": "^1.1.3"
   },
   "browserslist": [
@@ -31,7 +31,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "vue-loader": "^13.0.5",
-    "vue-template-compiler": "^2.4.4",
+    "vue-template-compiler": "^2.6.9",
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.9.1"
   }
