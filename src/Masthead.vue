@@ -3,7 +3,7 @@
         <div class="container">
             <div class="text">
                 <div class="heading">Worcester Winter League</div>
-                <div class="date">Next held on 29th October 2019</div>
+                <div class="date">Next held on 1st January 2019</div>
                 <a href="#results" class="button is-warning">Results</a>
                 <a href="#rules" class="button is-warning">Rules</a>
             </div>
