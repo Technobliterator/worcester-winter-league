@@ -10,7 +10,10 @@ module.exports = {
     filename: 'build.js'
   },
   plugins: [
-    new HtmlWebpackPlugin()
+    new HtmlWebpackPlugin({
+      title: 'Worcester Winter League',
+      filename: '/index.html'
+    })
   ],
   module: {
     rules: [
