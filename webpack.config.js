@@ -12,7 +12,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       title: 'Worcester Winter League',
-      filename: '/index.html'
+      filename: 'index.html'
     })
   ],
   module: {
