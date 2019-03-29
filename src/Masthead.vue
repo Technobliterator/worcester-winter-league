@@ -4,16 +4,20 @@
             <div class="text">
                 <div class="heading">Worcester Winter League</div>
                 <div class="date">Next held on Sunday 14th April</div>
-                <a href="#results" class="button is-warning">Results</a>
-                <a href="#rules" class="button is-warning">Rules</a>
+                <button class="button is-warning"  v-scroll-to="'#results'">Results</button>
+                <button class="button is-warning" v-scroll-to="'#rules'" >Rules</button>
             </div>
         </div>
     </header>
 </template>
 
 <script>
+import vueScrollTo from 'vue-scrollto'
 export default {
   name: 'masthead',
+    components: {
+        vueScrollTo
+    },
   data () {
     return {
       msg: 'Masthead'
