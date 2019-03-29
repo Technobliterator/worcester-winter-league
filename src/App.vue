@@ -26,10 +26,9 @@ export default {
 </script>
 
 <style>
-#app {
+body {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  text-align: center;
+  font-size: 1.2em;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

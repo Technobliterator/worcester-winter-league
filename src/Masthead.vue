@@ -12,13 +12,18 @@
 </template>
 
 <script>
+//import vueSmoothScroll from 'vue2-smooth-scroll'
+
 export default {
-  name: 'masthead',
-  data () {
-    return {
-      msg: 'Masthead'
-    }
-  },
+    name: 'masthead',
+    /*components: {
+        vueSmoothScroll,
+    },*/
+    data () {
+        return {
+        msg: 'Masthead'
+        }
+    },
 }
 </script>
 

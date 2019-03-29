@@ -6,7 +6,7 @@
             View our previous results.
         </h2>
         <tabs animation="slide" :only-fade="false">
-            <tab-pane label="First round 2018" selected>
+            <tab-pane label="First round 2019" selected>
                 Results of the first round held on Saturday 16th Feb:
                 <table class="table">
                     <thead>
