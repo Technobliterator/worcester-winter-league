@@ -28,7 +28,7 @@ export default {
 <style>
 body {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  font-size: 1.2em;
+  font-size: 1.4em;
   color: #2c3e50;
 }
 </style>
