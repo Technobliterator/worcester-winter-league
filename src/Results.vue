@@ -279,7 +279,7 @@
                 </table>
             </tab-pane>
             <tab-pane label="Next round">
-                The next round will be held on Sunday 14th April, all halas to be held at Droitwich Pool.
+                The next round will be held on Sunday 14th April, all galas to be held at Droitwich Pool.
                 <table class="table">
                     <thead>
                         <tr>
