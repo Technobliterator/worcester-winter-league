@@ -3,7 +3,7 @@
         <div class="container">
             <div class="text">
                 <div class="heading">Worcester Winter League</div>
-                <div class="date">Next held on Sunday 14th April</div>
+                <div class="date">Congratulations to Worcester A for their victory! The next will be held 2020.</div>
                 <button class="button is-warning"  v-scroll-to="'#results'">Results</button>
                 <button class="button is-warning" v-scroll-to="'#rules'" >Rules</button>
             </div>

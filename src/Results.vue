@@ -278,8 +278,9 @@
                     </tbody>
                 </table>
             </tab-pane>
-            <tab-pane label="Next round">
-                The next round will be held on Sunday 14th April, all galas to be held at Droitwich Pool.
+            <tab-pane label="Third round 2019">
+                Results of the third round galas on Sunday 14th April:
+
                 <table class="table">
                     <thead>
                         <tr>
@@ -290,109 +291,100 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <th>8:30am for 9:00am start</th>
-                            <th>11:00am for 11:30am start</th>
-                            <th>1:30pm for 2:00pm start</th>
+                            <td>Bromsgrove 150</td>
+                            <td>Droitwich 136</td>
+                            <td>Worcester A 190</td>
                         </tr>
                         <tr>
-                            <td>Sandwell Strikers</td>
-                            <td>Worcester C</td>
-                            <td>Worcester A</td>
+                            <td>Perry Beeches 131</td>
+                            <td>Sandwell Storm 130</td>
+                            <td>Redditch A</td>
                         </tr>
                         <tr>
-                            <td>Orion</td>
-                            <td>Sandwell Sharks</td>
-                            <td>Redditch</td>
+                            <td>Orion 130</td>
+                            <td>Redditch B 123</td>
+                            <td>Pershore 174</td>
                         </tr>
                         <tr>
-                            <td>Stourbridge</td>
-                            <td>Sandwell Storm</td>
-                            <td>Worcester B</td>
+                            <td>Stourbridge 97</td>
+                            <td>Worcester C 119</td>
+                            <td>Worcester B 132</td>
                         </tr>
                         <tr>
-                            <td>Bromsgrove</td>
-                            <td>Redditch B</td>
-                            <td>Pershore</td>
-                        </tr>
-                        <tr>
-                            <td>Perry Beeches</td>
-                            <td>Droitwich</td>
-                            <td>Halesowen</td>
-                        </tr>
-                        <tr>
-                            <th>Bromsgrove to organise</th>
-                            <th>Droitwich to organise</th>
-                            <th>Pershore to organise</th>
+                            <td>Sandwell Strikers 88</td>
+                            <td>Sadnwell Sharks 85</td>
+                            <td>Halesowen 109</td>
                         </tr>
                     </tbody>
                 </table>
+            </tab-pane>
+            <tab-pane label="Final League positions 2019">
+                Final positions in the League
+
                 <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Club</th>
-                            <th>Position</th>
-                        </tr>
-                    </thead>
                     <tbody>
                         <tr>
                             <td>Worcester A</td>
-                            <td>28</td>
+                            <td>38</td>
                         </tr>
                         <tr>
                             <td>Redditch A</td>
-                            <td>28</td>
+                            <td>36</td>
                         </tr>
                         <tr>
                             <td>Pershore</td>
-                            <td>26</td>
-                        </tr>
-                        <tr>
-                            <td>Halesowen</td>
-                            <td>26</td>
+                            <td>32</td>
                         </tr>
                         <tr>
                             <td>Worcester B</td>
-                            <td>25</td>
+                            <td>30</td>
+                        </tr>
+                        <tr>
+                            <td>Halesowen</td>
+                            <td>28</td>
                         </tr>
                         <tr>
                             <td>Droitwich</td>
-                            <td>15</td>
-                        </tr>
-                        <tr>
-                            <td>Orion</td>
-                            <td>13</td>
+                            <td>21</td>
                         </tr>
                         <tr>
                             <td>Bromsgrove</td>
-                            <td>12</td>
+                            <td>18</td>
+                        </tr>
+                        <tr>
+                            <td>Orion</td>
+                            <td>17</td>
                         </tr>
                         <tr>
                             <td>Stourbridge</td>
-                            <td>12</td>
-                        </tr>
-                        <tr>
-                            <td>Sandwell Sharks</td>
-                            <td>10</td>
+                            <td>15</td>
+                            <td>Total gala points 359</td>
                         </tr>
                         <tr>
                             <td>Perry Beeches</td>
-                            <td>10</td>
+                            <td>15</td>
+                            <td>Total gala points 291</td>
                         </tr>
                         <tr>
                             <td>Worcester C</td>
-                            <td>9</td>
+                            <td>12</td>
+                            <td>Total gala points 409</td>
+                        </tr>
+                        <tr>
+                            <td>Sandwell Sharks</td>
+                            <td>388</td>
                         </tr>
                         <tr>
                             <td>Sandwell Storm</td>
-                            <td>6</td>
+                            <td>11</td>
                         </tr>
                         <tr>
                             <td>Redditch B</td>
-                            <td>5</td>
+                            <td>9</td>
                         </tr>
                         <tr>
                             <td>Sandwell Strikers</td>
-                            <td>4</td>
+                            <td>6</td>
                         </tr>
                     </tbody>
                 </table>
